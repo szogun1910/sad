@@ -1,0 +1,27 @@
+
+.docs-container {
+    display: flex;
+    font-family: sans-serif;
+}
+.docs-sidebar {
+    width: 250px;
+    background: #f5f5f5;
+    padding: 20px;
+}
+.docs-content {
+    padding: 20px;
+    flex-grow: 1;
+}
+.docs-markdown {
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+}
+.docs-search-form {
+    margin-bottom: 20px;
+}
+.docs-search-input {
+    width: 100%;
+    padding: 8px;
+    border-radius: 4px;
+}

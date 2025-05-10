@@ -1,0 +1,2 @@
+<?php
+// Language file
